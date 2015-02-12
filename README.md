@@ -18,7 +18,7 @@ Conventions/Best Practices
 
 Example Usage
 ------------------------------
-* Real world, example usage can be found in the [MvcKickstart project](https://github.com/laughlin/mvc-kickstart).
+* Real world, example usage can be found in the [MvcKickstart project](https://github.com/laughlin/MvcKickstart).
 
 
 ### Configuring cache durations using cache profiles
