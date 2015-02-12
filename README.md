@@ -1,7 +1,7 @@
 CacheStack
 ===========
 
-Cache extensions for [Service Stack ICacheClient](https://github.com/ServiceStack/ServiceStack/wiki/Caching). Includes mvc donut caching and the notion of a cache context.  This is a .net 4.5 library designed to work with ASP.NET MVC 4+. This library can be installed via [nuget](https://nuget.org/packages/CacheStack).
+Cache extensions for [Service Stack ICacheClient](https://github.com/ServiceStack/ServiceStack/wiki/Caching). Includes mvc donut caching and the notion of a cache context.  This is a .net 4.5 library designed to work with ASP.NET MVC 4+. This a public version of this library can be installed via [nuget](https://nuget.org/packages/CacheStack).
 
 Additional Information
 ----------------------
@@ -12,13 +12,13 @@ The cache context allows you to setup cache profiles and triggers. Cache profile
 Conventions/Best Practices
 -----------
 
-* Relation triggers will need a ReferencesAttribute to work properly. [Spruce](https://github.com/jgeurts/spruce) and [OrmLite](https://github.com/servicestack/servicestack.ormlite) both have implementations that will suffice.  You will also see the best results if your object relations have an Id field specified.
+* Relation triggers will need a ReferencesAttribute to work properly. [Spruce](https://github.com/laughlin/Spruce) and [OrmLite](https://github.com/servicestack/servicestack.ormlite) both have implementations that will suffice.  You will also see the best results if your object relations have an Id field specified.
 * If you use attribute routing, you'll be further ahead to set `CacheStackSettings.UseRouteNameForCacheKey = true;`
 
 
 Example Usage
 ------------------------------
-* Real world, example usage can be found in the [MvcKickstart project](https://github.com/jgeurts/MvcKickstart).
+* Real world, example usage can be found in the [MvcKickstart project](https://github.com/laughlin/mvc-kickstart).
 
 
 ### Configuring cache durations using cache profiles
