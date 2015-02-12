@@ -1,7 +1,7 @@
 CacheStack
 ===========
 
-Cache extensions for [Service Stack ICacheClient](https://github.com/ServiceStack/ServiceStack/wiki/Caching). Includes mvc donut caching and the notion of a cache context.  This is a .net 4.5 library designed to work with ASP.NET MVC 4+. This a public version of this library can be installed via [nuget](https://nuget.org/packages/CacheStack).
+Cache extensions for [Service Stack ICacheClient](https://github.com/ServiceStack/ServiceStack/wiki/Caching). Includes mvc donut caching and the notion of a cache context.  This is a .net 4.5 library designed to work with ASP.NET MVC 4+. A public version of this library can be installed via [nuget](https://nuget.org/packages/CacheStack).
 
 Additional Information
 ----------------------
