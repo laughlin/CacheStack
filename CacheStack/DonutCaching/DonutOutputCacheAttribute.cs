@@ -3,7 +3,7 @@ using System.Globalization;
 using System.IO;
 using System.Web.Mvc;
 using System.Web.UI;
-using ServiceStack.CacheAccess;
+using ServiceStack.Caching;
 
 namespace CacheStack.DonutCaching
 {

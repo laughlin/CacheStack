@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using CacheStack.InternalExtensions;
-using ServiceStack.CacheAccess;
+using ServiceStack.Caching;
 
 namespace CacheStack
 {

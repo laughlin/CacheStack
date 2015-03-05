@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 using System.Web.Mvc;
 using System.Web.Mvc.Html;
 using System.Web.Routing;
-using ServiceStack.Text;
+using ServiceStack;
 
 namespace CacheStack.DonutCaching
 {
