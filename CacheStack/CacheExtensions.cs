@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Concurrent;
 using System.Linq;
-using ServiceStack.Caching;
+using ServiceStack.CacheAccess;
 
 namespace CacheStack
 {
