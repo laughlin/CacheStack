@@ -3,9 +3,9 @@
 	<metadata>
 		<id>CacheStack</id>
 		<version>1.0.0</version>
-		<authors>Jim Geurts</authors>
-		<projectUrl>https://github.com/jgeurts/cachestack</projectUrl>
-		<licenseUrl>https://raw.github.com/jgeurts/cachestack/master/LICENSE.txt</licenseUrl>
+		<authors>Jim Geurts, Jon Knopp</authors>
+		<projectUrl>https://github.com/laughlin/CacheStack</projectUrl>
+		<licenseUrl>https://raw.githubusercontent.com/laughlin/CacheStack/master/LICENSE.txt</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<description>Cache extensions for ServiceStack ICacheClient. Includes cache context and mvc donut caching.</description>
 		<summary>Cache extensions for ServiceStack ICacheClient. Includes cache context and mvc donut caching.</summary>
