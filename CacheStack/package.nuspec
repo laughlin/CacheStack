@@ -13,7 +13,7 @@
 		<tags>cache caching servicestack service stack icacheclient donut donutcaching mvcdonutcaching mvc asp.net</tags>
 		<dependencies>
       <dependency id="Microsoft.AspNet.Mvc" version="[5.0.0,5.0.0]" />
-      <dependency id="ServiceStack.Common" version="3.9" />
+      <dependency id="ServiceStack.Common" version="[3.9.71,3.9.71]" />
 		</dependencies>
 		<frameworkAssemblies>
       <frameworkAssembly assemblyName="System.Configuration" />
